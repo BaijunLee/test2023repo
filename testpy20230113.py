@@ -3,8 +3,4 @@
 
 # COMMAND ----------
 
-
-
-# COMMAND ----------
-
 # MAGIC %sh ls -ltr
